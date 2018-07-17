@@ -1,4 +1,4 @@
-## Video Ecoder with React.js and Node.js ( NODE SERVER API )
+## Video Ecoder with Node.js + S3 SDK + ZENCODER Sdk ( NODE SERVER API )
 
 This node Server is handling the Multipart Upload to AWS S3 Bucket
 
