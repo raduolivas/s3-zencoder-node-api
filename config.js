@@ -12,7 +12,7 @@ const S3_BUCKET = process.env.S3_BUCKET;
 
 /**ZENCODER Access Parameters
  * **/
-const ZENCODER_KEY = '2e3c6249b58d83d2e25a8b09ce1703ea';
+const ZENCODER_KEY = process.env.ZENCODER_KEY;
 console.log('=++++++++++++[   NODEJS [-] S3 [-] ZENCODER [-] API ]+++++++++++++=');
 
 module.exports = Object.freeze({
